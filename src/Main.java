@@ -18,5 +18,12 @@ public class Main {
         System.out.println(list);
         list.add(5);
         System.out.println(list);
+        list.remove(2);
+        System.out.println(list);
+        list.removeFirst();
+        System.out.println(list);
+        list.add(7);
+        System.out.println(list);
+
     }
 }
