@@ -24,5 +24,6 @@ public class Main {
         System.out.println(list);
         list.add(7);
         System.out.println(list);
+
     }
 }
