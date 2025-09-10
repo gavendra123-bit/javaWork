@@ -5,6 +5,5 @@ public class Wrapper {
         System.out.println(y);
         int z=y;
         System.out.println(z);
-
     }
 }
