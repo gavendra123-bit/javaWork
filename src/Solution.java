@@ -55,6 +55,7 @@ public class Solution {
 
 
         // Total Cost of Pen Books and registers
+
         System.out.print("Enter cost of pen: ");
         float pen_cost = sc.nextFloat();
         System.out.print("Enter cost of book: ");
